@@ -1,0 +1,27 @@
+/*|| VARIABLES */
+/* ||RESET*/
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ||UTILITIES */
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+textarea,
+button,
+input {
+  font: inherit;
+}
+
+/* ||GENERAL */
+body {
+  background-color: #000;
+}/*# sourceMappingURL=TODO-LIST.css.map */

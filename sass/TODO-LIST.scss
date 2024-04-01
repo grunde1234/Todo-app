@@ -1,0 +1,37 @@
+/*|| VARIABLES */
+
+$MOBILE: 576px;
+$TABLET: 768px;
+$LAPTOP: 992px;
+$DESKTOP: 1200px;
+
+/* ||RESET*/
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* ||UTILITIES */
+
+img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+textarea,
+button,
+input{
+    font: inherit;
+}
+
+/* ||GENERAL */
+
+body{
+    background-color: #000;
+}
+
